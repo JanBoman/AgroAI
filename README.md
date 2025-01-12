@@ -1,4 +1,4 @@
-# Eliza 🤖
+# Agro AI 🤖
 
 <div align="center">
   <img src="./docs/static/img/Agro_AI.png" alt="AGRO_AI Banner" width="100%" />
