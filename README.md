@@ -20,10 +20,6 @@
 - ☁️ Supports many models (local Llama, OpenAI, Anthropic, Groq, etc.)
 - 📦 Just works!
 
-## Video Tutorials
-
-[AI Agent Dev School](https://www.youtube.com/watch?v=ArptLpQiKfI&list=PLx5pnFXdPTRzWla0RaOxALTSTnVq53fKL)
-
 ## 🎯 Use Cases
 
 - 🤖 Chatbots
@@ -31,17 +27,6 @@
 - 📈 Business Process Handling
 - 🎮 Video Game NPCs
 - 🧠 Trading
-
-## 💰 If you plan to launch a token
-
-This framework is the number one open source project on github, we are enabling the next generation of human-machine interface but we still need your help to ensure the code is of the utmost quality with response rapid to critical issues that will affect our builder community at large.
-
-To ensure sustainable development and continued innovation, we ask contributions of 5-10% of initial token distributions from successful launches.
-
-All contributions are publicly tracked on-chain and used exclusively for ecosystem development.
-
-### ⚠️ Don't forget to tip the big guy 10%: ⚠️
-[AM84n1iLdxgVTAyENBcLdjXoyvjentTbu5Q6EpKV1PeG](https://solscan.io/account/AM84n1iLdxgVTAyENBcLdjXoyvjentTbu5Q6EpKV1PeG)
 
 ## 🚀 Quick Start
 
@@ -71,7 +56,7 @@ pnpm start:client
 
 Then read the [Documentation](https://elizaos.github.io/eliza/) to learn how to customize your Eliza.
 
-### Manually Start Eliza (Only recommended if you know what you are doing)
+### Manually Start Agro AI (Only recommended if you know what you are doing)
 
 ```bash
 # Clone the repository
@@ -81,10 +66,6 @@ git clone https://github.com/elizaos/eliza.git
 # This project iterates fast, so we recommend checking out the latest release
 git checkout $(git describe --tags --abbrev=0)
 ```
-
-### Start Eliza with Gitpod
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/elizaos/eliza/tree/main)
 
 ### Edit the .env file
 
@@ -136,16 +117,4 @@ pnpm install --include=optional sharp
 
 ### Community & contact
 
-- [GitHub Issues](https://github.com/elizaos/eliza/issues). Best for: bugs you encounter using Eliza, and feature proposals.
-- [Discord](https://discord.gg/ai16z). Best for: sharing your applications and hanging out with the community.
-- [Developer Discord](https://discord.gg/3f67SH4rXT). Best for: getting help and plugin development.
-
-## Contributors
-
-<a href="https://github.com/elizaos/eliza/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=elizaos/eliza" />
-</a>
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=elizaos/eliza&type=Date)](https://star-history.com/#elizaos/eliza&Date)
+- [GitHub Issues](https://github.com/JanBoman/AgroAI). Best for: bugs you encounter using Agro AI, and feature proposals.
