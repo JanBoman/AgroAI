@@ -1,7 +1,7 @@
 # Eliza 🤖
 
 <div align="center">
-  <img src="./docs/static/img/AGRO_AI.png" alt="AGRO_AI Banner" width="100%" />
+  <img src="./docs/static/img/Agro_AI.png" alt="AGRO_AI Banner" width="100%" />
 </div>
 
 <div align="center">
