@@ -41,8 +41,8 @@
 ### Use the Starter (Recommended)
 
 ```bash
-git clone https://github.com/elizaos/eliza-starter.git
-cd eliza-starter
+git clone https://github.com/JanBoman/AgroAI.git
+cd agroai-starter
 cp .env.example .env
 pnpm i && pnpm build && pnpm start
 ```
@@ -54,13 +54,11 @@ Open another terminal and move to same directory and then run below command and 
 pnpm start:client
 ```
 
-Then read the [Documentation](https://elizaos.github.io/eliza/) to learn how to customize your Eliza.
-
 ### Manually Start Agro AI (Only recommended if you know what you are doing)
 
 ```bash
 # Clone the repository
-git clone https://github.com/elizaos/eliza.git
+git clone https://github.com/JanBoman/AgroAI.git
 
 # Checkout the latest release
 # This project iterates fast, so we recommend checking out the latest release
@@ -78,7 +76,7 @@ cp .env.example .env
 Note: .env is optional. If you're planning to run multiple distinct agents, you can pass secrets through the character JSON
 Note: .env is optional. If you're planning to run multiple distinct agents, you can pass secrets through the character JSON
 
-### Automatically Start Eliza
+### Automatically Start Agro AI
 
 This will run everything to set up the project and start the bot with the default character.
 
