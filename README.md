@@ -10,7 +10,7 @@
 </div>
 
 
-**Agro AI** is a cutting-edge, decentralized agricultural intelligence solution forked from the powerful AI platform [elizaos.com](https://elizaos.com). Leveraging the strengths of robust language models (Llama, Grok, OpenAI, Anthropic, etc.) and integrating Web3 capabilities, Agro AI revolutionizes agriculture by enabling smarter decision-making, seamless collaboration, and transparent data handling.
+**Agro AI** is a cutting-edge, decentralized agricultural intelligence solution forked from the powerful AI agent (https://github.com/elizaOS/eliza). Leveraging the strengths of robust language models (Llama, Grok, OpenAI, Anthropic, etc.) and integrating Web3 capabilities, Agro AI revolutionizes agriculture by enabling smarter decision-making, seamless collaboration, and transparent data handling.
 
 ## ✨ **Key Features**
 
